@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "SOS",
+  "base_artist": "Avicii",
+  "createdAt": "2026-03-13T15:31:36.955368Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sos",
+      "artist": "Samy Deluxe",
+      "has_synced": false,
+      "path": "select/01_Sos_Samy_Deluxe.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SOS",
+      "artist": "Yung Bans",
+      "has_synced": false,
+      "path": "select/02_SOS_Yung_Bans.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Castle (SOS Demo)",
+      "artist": "Codeine",
+      "has_synced": false,
+      "path": "select/03_Castle_(SOS_Demo)_Codeine.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SOS",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/04_SOS_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "SOS",
+      "artist": "La Bouche",
+      "has_synced": true,
+      "path": "select/05_SOS_La_Bouche.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "SOS Planet",
+      "artist": "Lunascape",
+      "has_synced": false,
+      "path": "select/06_SOS_Planet_Lunascape.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "SOS (AMP Remix)",
+      "artist": "Sneaker Pimps",
+      "has_synced": false,
+      "path": "select/07_SOS_(AMP_Remix)_Sneaker_Pimps.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sos",
+      "artist": "The Corrs",
+      "has_synced": true,
+      "path": "select/08_Sos_The_Corrs.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SOS",
+      "artist": "House of Lords",
+      "has_synced": false,
+      "path": "select/09_SOS_House_of_Lords.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SOS Emergency",
+      "artist": "Def Leppard",
+      "has_synced": true,
+      "path": "select/10_SOS_Emergency_Def_Leppard.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sos Hello",
+      "artist": "Grafton Primary",
+      "has_synced": true,
+      "path": "select/11_Sos_Hello_Grafton_Primary.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Adrian SOS",
+      "artist": "Running Wild",
+      "has_synced": true,
+      "path": "select/12_Adrian_SOS_Running_Wild.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "SOS",
+      "artist": "Papa Roach",
+      "has_synced": true,
+      "path": "select/13_SOS_Papa_Roach.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "SOS (feat. Aloe Blacc)",
+      "artist": "Avicii feat. Aloe Blacc",
+      "has_synced": true,
+      "path": "select/14_SOS_(feat._Aloe_Blacc)_Avicii_feat._Aloe_Blacc.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "SOS",
+      "artist": "Avicii feat. Aloe Blacc",
+      "has_synced": true,
+      "path": "select/15_SOS_Avicii_feat._Aloe_Blacc.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sos",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/16_Sos_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "SOS",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/17_SOS_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "SOS",
+      "artist": "Fates Warning",
+      "has_synced": true,
+      "path": "select/18_SOS_Fates_Warning.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "SOS - Digital Dog Remix",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/19_SOS_-_Digital_Dog_Remix_Rihanna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SOS",
+      "artist": "Avicii, Aloe Blacc",
+      "has_synced": false,
+      "path": "select/pl_01_SOS_Avicii,_Aloe_Blacc.txt"
+    }
+  ]
+}
